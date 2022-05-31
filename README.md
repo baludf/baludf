@@ -1,5 +1,5 @@
 # Guilherme Costa (Balu) 
-### Se esforçando para ser um Data Scientist 
+### Se esforçando para ser um cientista de dados
 <p align="center">
   <img src="https://user-images.githubusercontent.com/75260625/167740180-8d70376a-49ad-4d45-9fad-614954677c1f.jpg" />
 </p>
@@ -22,13 +22,15 @@ Com uma especialização em Big data e Analytics, hoje atuo com elaboração e d
   ![Anaconda](https://img.shields.io/badge/-Anaconda-black?style=plastic&logo=anaconda)
   
  #### 🌱 Estou aprendendo:
+ ![R](https://img.shields.io/badge/-R-black?style=plastic&logo=R)
+ ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=plastic&logo=Microsoft-Azure)
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
  ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=Docker)
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=plastic&logo=Apache-Spark)
  ![AWS](https://img.shields.io/badge/-AWS-black?style=plastic&logo=Amazon-AWS)
  ![Databricks](https://img.shields.io/badge/-Databricks-black?style=plastic&logo=Databricks)
  ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=plastic&logo=Apache-Hadoop)
  ![Airflow](https://img.shields.io/badge/-Airflow-black?style=plastic&logo=Apache-Airflow)
- ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=plastic&logo=Microsoft-Azure)
- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
+ 
  
  
