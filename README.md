@@ -12,7 +12,7 @@ Com uma especialização em Big data e Analytics, hoje atuo com elaboração e d
  ![SqlServer](https://img.shields.io/badge/-Sql%20Server-black?style=plastic&logo=microsoft-sql-server)
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
  ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
-## 📚 Tenho conhecimento básico:
+## 📚 Tenho conhecimento:
   #### 🎲 Ciência de dados:
   ![Pandas](https://img.shields.io/badge/-Pandas-black?style=plastic&logo=Pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-black?style=plastic&logo=Numpy)
@@ -20,17 +20,18 @@ Com uma especialização em Big data e Analytics, hoje atuo com elaboração e d
   ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=plastic&logo=Jupyter)
   ![Plotly](https://img.shields.io/badge/-Plotly-black?style=plastic&logo=Plotly)
   ![Anaconda](https://img.shields.io/badge/-Anaconda-black?style=plastic&logo=anaconda)
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=Docker)
+  ![Airflow](https://img.shields.io/badge/-Airflow-black?style=plastic&logo=Apache-Airflow)
   
  #### 🌱 Estou aprendendo:
  ![R](https://img.shields.io/badge/-R-black?style=plastic&logo=R)
  ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=plastic&logo=Microsoft-Azure)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
- ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=Docker)
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=plastic&logo=Apache-Spark)
  ![AWS](https://img.shields.io/badge/-AWS-black?style=plastic&logo=Amazon-AWS)
  ![Databricks](https://img.shields.io/badge/-Databricks-black?style=plastic&logo=Databricks)
  ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=plastic&logo=Apache-Hadoop)
- ![Airflow](https://img.shields.io/badge/-Airflow-black?style=plastic&logo=Apache-Airflow)
+ 
  
  
  
