@@ -17,6 +17,7 @@ Com uma especialização em Big data e Analytics, hoje atuo com elaboração e d
   ![Pandas](https://img.shields.io/badge/-Pandas-black?style=plastic&logo=Pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-black?style=plastic&logo=Numpy)
   ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=plastic&logo=scikit-learn)
+  ![Tensorflow](https://img.shields.io/badge/-tensorflow-black?style=plastic&logo=tensorflow)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=plastic&logo=Jupyter)
   ![Plotly](https://img.shields.io/badge/-Plotly-black?style=plastic&logo=Plotly)
   ![Anaconda](https://img.shields.io/badge/-Anaconda-black?style=plastic&logo=anaconda)
